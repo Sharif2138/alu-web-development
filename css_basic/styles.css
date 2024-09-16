@@ -2,7 +2,9 @@ body {
   display: flex;            
   flex-direction: column;       
   height: 100vh;            
-  margin: 0;                     
+  margin: 0;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
 }
 
 main {
@@ -14,10 +16,25 @@ main {
 
 article {
   flex: 2;                       
-  overflow-y: auto;     
+  overflow-y: auto;
+  line-height: 1.6;
+  background-colour: #fff;
+  padding: 20px;
 }
 
 aside {
   flex: 1;                       
   overflow-y: auto;              
 }
+
+.logo {
+  font-size: 2em;       
+  padding-right: 10px;  
+}
+
+h1, h2, h3 {
+  font-family: 'Georgia', serif;
+}
+
+P{
+ colour: #555; 	
