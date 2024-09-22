@@ -1,4 +1,11 @@
-HTML Advanced Project
 
-In this project, the goal is to build the semantic HTML structure of a webpage from a Figma design file. I will be focusing only on the HTML, meaning no CSS or styling will be applied in this stage. The purpose of this project is to emphasize clean, well-organized, and accessible HTML.
+ ALU Web Development - HTML Advanced
+
+This project focuses on building a webpage from a Figma design file using pure HTML, following semantic HTML principles. The goal is to structure the webpage correctly without applying any CSS for styling at this stage.
+
+ Objectives
+- Implement the webpage structure from a provided wireframe.
+- Use semantic HTML tags to represent the content appropriately.
+- Ensure that each section follows the layout of the Figma design.
+
 
